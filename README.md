@@ -1,2 +1,2 @@
 # sharepointlogin
-Simple login and authentication in sharepoint
+Simple login and authentication in sharepoint using PHP 
